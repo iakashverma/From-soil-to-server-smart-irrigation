@@ -6,7 +6,7 @@ From-soil-to-server-smart-irrigation
 <img width="820" height="1303" alt="image" src="https://github.com/user-attachments/assets/f7ad26e8-799f-43fb-86dd-06c44c748f62" />
 
 # Block Diagram
-<img width="724" height="545" alt="image" src="https://github.com/user-attachments/assets/0edae71a-d897-4a2f-acb6-a32edd395d0a" />
+<img width="637" height="476" alt="image" src="https://github.com/user-attachments/assets/464326b9-aa37-4d5e-ba2b-de8ddaa86565" />
 
 
 # Circuit Digram
@@ -14,6 +14,7 @@ From-soil-to-server-smart-irrigation
 
 # Blynk Console
 <img width="1512" height="900" alt="image" src="https://github.com/user-attachments/assets/765c63a8-9455-4862-931d-1a25e712d6b7" />
+
 
 
 
