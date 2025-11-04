@@ -9,4 +9,6 @@ From-soil-to-server-smart-irrigation
 # Blynk Console
 
 <img width="1512" height="900" alt="image" src="https://github.com/user-attachments/assets/c955a653-c8dd-44c4-aec8-9bae5d33e920" />
+<img width="969" height="578" alt="image" src="https://github.com/user-attachments/assets/2c9a0cec-6c33-4253-8225-5bf66e22d46d" />
+
 
