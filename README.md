@@ -1,6 +1,6 @@
-﻿# From-soil-to-server-smart-irrigation
+From-soil-to-server-smart-irrigation
 
-From Soil to Server : Enhancing Plant Care Through Real-Time Monitoring
+## From Soil to Server : Enhancing Plant Care Through Real-Time Monitoring
 
 # Complete Process of Project Working
 
@@ -9,3 +9,4 @@ From Soil to Server : Enhancing Plant Care Through Real-Time Monitoring
 # Blynk Console
 
 <img width="1512" height="900" alt="image" src="https://github.com/user-attachments/assets/c955a653-c8dd-44c4-aec8-9bae5d33e920" />
+
